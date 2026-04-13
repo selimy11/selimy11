@@ -48,11 +48,6 @@ I am a dedicated Software Developer specializing in the **.NET ecosystem** and *
 - **System Optimization:** Developed robust Windows services and optimized data persistence layers.
 - **Real-time Integration:** Facilitated lightweight messaging between distributed services and hardware using MQTT.
 
-## 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=selimy11&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Selim's GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selimy11&layout=compact&theme=radical" alt="Selim's Top Languages" />
-</p>
 
 ### ✍️ Activity Graph
 ![Selim's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=selimy11&theme=react-dark)
